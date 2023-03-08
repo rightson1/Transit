@@ -19,8 +19,8 @@ function MyApp(props) {
   return (
     <>
       <Head>
-        <title>Foodie Admin Dashboard</title>
-        <meta name="description" content="Foodie Admin Dashboard" />
+        <title>Transit Admin Dashboard</title>
+        <meta name="description" content="Transite Admin Dashboard" />
 
         <link rel="icon" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
